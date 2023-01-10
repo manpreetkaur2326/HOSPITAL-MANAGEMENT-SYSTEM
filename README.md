@@ -1,0 +1,2 @@
+# HOSPITAL-MANAGEMENT-SYSTEM
+made it using c++
